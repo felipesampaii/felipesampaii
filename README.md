@@ -1,5 +1,5 @@
 
-### Olá, eu sou o Felipe Sampaio
+### Olá, Eu sou o Felipe Sampaio
 <hr>
 
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesampai&show_icons=true&theme=onedark)
