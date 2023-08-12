@@ -1,5 +1,5 @@
 
-### Olá, Eu sou o Felipe Sampaio, estudante de TI para desemvolvimento de sistemas
+### Olá, Sou o Felipe Sampaio, estudante de TI para desemvolvimento de sistemas
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesampai&show_icons=true&theme=onedark)
 
 <div style="display: inline_block"><br>
